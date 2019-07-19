@@ -1,0 +1,21 @@
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: coral;    
+    width: 500px;
+}
+#seperator{
+    height: 2px;
+    background-color: black;
+}
+label{
+    color: black;
+    display: inline-block;
+    width: 110px;  
+}
+input{
+    font-size: 20px;
+    border-radius: 4px;
+    color:black;
+}
